@@ -8,10 +8,41 @@
 
 h1{
   font-size: 30px;
+  text-align: center;
+  margin: 40px;
+}
+
+.swiper{
+  margin-bottom: 24px;
+}
+
+.container{
+  padding: 0 24px;
+}
+
+.name-input{
+
+  width: 100%;
 }
 
 
 
-button{
+.radio-group{
   display: block;
+margin-bottom: 30px;
+&__item{
+padding: 30px;
+margin: 20px;
+
+}
+}
+
+.label{
+  font-size: 14px;
+}
+
+
+.button{
+display: block;
+text-align: center;
 }
