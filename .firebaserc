@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gitpet-test-18984": {
+      "hosting": {
+        "dog-hunting": [
+          "gitpet-test-18984"
+        ]
+      }
+    }
+  }
+}
